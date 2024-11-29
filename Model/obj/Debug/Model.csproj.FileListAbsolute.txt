@@ -1,0 +1,12 @@
+D:\ASP.NET\OnlineShop\Model\bin\Debug\Model.dll.config
+D:\ASP.NET\OnlineShop\Model\bin\Debug\Model.dll
+D:\ASP.NET\OnlineShop\Model\bin\Debug\Model.pdb
+D:\ASP.NET\OnlineShop\Model\bin\Debug\EntityFramework.dll
+D:\ASP.NET\OnlineShop\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\ASP.NET\OnlineShop\Model\bin\Debug\EntityFramework.xml
+D:\ASP.NET\OnlineShop\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\ASP.NET\OnlineShop\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+D:\ASP.NET\OnlineShop\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\ASP.NET\OnlineShop\Model\obj\Debug\Model.csproj.Up2Date
+D:\ASP.NET\OnlineShop\Model\obj\Debug\Model.dll
+D:\ASP.NET\OnlineShop\Model\obj\Debug\Model.pdb
